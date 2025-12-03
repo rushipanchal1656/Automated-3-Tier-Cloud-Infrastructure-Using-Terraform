@@ -37,3 +37,4 @@ terraform.rc
 .idea/
 *.swp
 *.swo
+./.git/objects/pack/pack-e92217467b2734fd1cb881a32ce5a4c487d4468f.pack
